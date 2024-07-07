@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriram-adithya&label=Profile%20views&color=0e75b6&style=flat" alt="sriram-adithya" /> </p>
 
-- 🔭 I’m currently working on **Accenture as a Devops-Backend engineer**
+- 🔭 I’m currently working on **Accenture as a DevOps-Backend engineer**
 
 - 🌱 I’m currently learning **DSA, web development, MERN stack etc**
 
-- 👯 I’m looking to collaborate on **React-based projects and make some open source contributions.**
+- 👯 I’m looking to collaborate on **React-based projects and make some open-source contributions.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sriram-adithya?tab=repositories](https://github.com/sriram-adithya?tab=repositories)
 
@@ -20,8 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sriramadithyaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sriramadithyaa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sriram adithya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sriram adithya" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/santaboy2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="santaboy2" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sriram-adithya-b3872320a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sriram adithya" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@santaboy3042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="santaboy2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/santaboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="santaboy" height="30" width="40" /></a>
 </p>
 
