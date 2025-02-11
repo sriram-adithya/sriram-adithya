@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriram-adithya&label=Profile%20views&color=0e75b6&style=flat" alt="sriram-adithya" /> </p>
 
-- 🔭 I’m currently working on **Accenture as a DevOps-Backend engineer**
+- 🔭 I’m currently working on **Accenture as a Backend engineer/DevOps**
 
-- 🌱 I’m currently learning **DSA, web development, MERN stack etc**
+- 🌱 I’m currently learning **DSA, web development, Java Spring Boot etc**
 
-- 👯 I’m looking to collaborate on **React-based projects and make some open-source contributions.**
+- 👯 I’m looking to make some open-source contributions.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sriram-adithya?tab=repositories](https://github.com/sriram-adithya?tab=repositories)
 
